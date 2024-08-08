@@ -1,0 +1,57 @@
+html{
+  width: 100%;
+  height: 100%;
+}
+
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url(nice.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: "Cinzel", serif;
+}
+
+
+.box{
+  width: 600px;
+ height:500 px;
+
+  color: #fff;
+  border-radius: 12px;
+  padding: 30px 40px;
+  margin-right: 40%;
+
+}
+.box h1{
+  font-size: 45px;
+
+}
+
+
+button{
+  font-size: 23px;
+  color: white;
+  text-decoration: none;
+  padding: 10px 25px;
+  border: 2px solid white;
+  border-radius: 50px;
+  background-color: black;
+
+
+}
+#buttons{
+  margin-right: 72% !important;
+}
+
+p{
+  font-size: 20px;
+}
+
+#emissions{
+  margin-top: 10%;
+  margin-bottom: 10%;
+}

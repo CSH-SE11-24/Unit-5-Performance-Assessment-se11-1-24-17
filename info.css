@@ -1,0 +1,28 @@
+html{
+  width: 100%;
+  height: 100%;
+}
+
+body{
+  background-color: #DDBD9E !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  font-family: "Cinzel", serif;
+}
+
+#emission{
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+#affected{
+  margin-top: 10%;
+}
+
+#space{
+  margin-bottom: 10%;
+}
